@@ -1,1 +1,1 @@
-# Hangman
+# HangMan
